@@ -1,4 +1,4 @@
-#In Memory key store for storing key value pairs, retreivable using command line arguments.
+# In Memory key store for storing key value pairs, retreivable using command line arguments.
 
 A key-value store using socket programming. The server implements the key-value store and
 clients make use of it. The server accepts clients’ connections and serve their requests for ‘get’ and
